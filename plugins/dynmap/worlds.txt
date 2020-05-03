@@ -132,7 +132,7 @@ worlds:
         z0: -2500
         x1: 2500
         z1: 2500
-    hidestyle: stone
+    hidestyle: air
     bigworld: true
   - name: world_nether
     enabled: false
